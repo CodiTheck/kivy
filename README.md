@@ -93,7 +93,7 @@ Donc, c'est partie !
 ### Installation des dépendances
 ```sh
 # quelque lib (obligatoire)
-sudo apt install git cython autoconf openjdk-13-jdk
+sudo apt install git cython autoconf openjdk-13-jdk ipython3
 
 # quelque lib de dev (obligatoires)
 sudo apt install build-essential libltdl-dev libffi-dev libssl-dev python-dev
